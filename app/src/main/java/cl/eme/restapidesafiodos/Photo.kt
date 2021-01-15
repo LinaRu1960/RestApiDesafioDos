@@ -1,3 +1,3 @@
 package cl.eme.restapidesafiodos
 
-data class Photo (val photId: Int, val title: String, val url:String, val thumbnail: String )
+data class Photo (val albumId:Int, val id: Int, val title: String, val url:String, val thumbnailUrl: String )
