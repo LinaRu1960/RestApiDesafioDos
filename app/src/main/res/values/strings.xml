@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">RestApiDesafioDos</string>
+    <string name="photo_title_here" />
 </resources>
